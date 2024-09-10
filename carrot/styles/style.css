@@ -1,0 +1,7 @@
+body{background-color:rgb(175, 168, 164);}
+ul {display: inline;}
+#title2{
+    border:2px solid red;
+    width: 500px;
+    height:100vh;
+}
